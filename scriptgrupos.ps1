@@ -1,0 +1,1 @@
+Add-LocalGroupMember -Group "Global" -Member nombre
